@@ -1,0 +1,3 @@
+Para la detección de fallos en máquinas, es esencial comprender las métricas de rendimiento clave:
+Recall (Sensibilidad): Proporción de verdaderos positivos correctamente identificados sobre el total de verdaderos positivos. Un alto recall es crucial para minimizar los falsos negativos, es decir, para asegurarse de que se detecten la mayoría de los fallos reales.
+Especificidad: Proporción de verdaderos negativos correctamente identificados sobre el total de negativos. Una alta especificidad es importante para minimizar los falsos positivos, es decir, para evitar identificar incorrectamente las máquinas que funcionan correctamente como fallidas.
